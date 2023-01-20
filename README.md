@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Olá, sou o Willian, resido em Recife-PE, programador front end e atualmente estou aprendendo e criando projetos em HTML, CSS, JavaScript e React.
+Olá, sou o Willian, resido em Recife-PE, programador Full-Stack e atualmente estou aprendendo e criando projetos em HTML, CSS, JavaScript e React.
 <br>
 <br>
 <br>
